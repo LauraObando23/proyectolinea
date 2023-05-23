@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/e0d1e256-52dd-4908-b4fa-0650ea3ffdd8/resourceGroups/classroom/providers/Microsoft.Web/sites/backcroom",
+    "appService.deploySubpath": "."
+}
